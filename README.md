@@ -1,10 +1,5 @@
 # RVEA Presentation / Apresentação RVEA
 
-> **Repository Description / Descrição do Repositório:**
-> Presentation on the Reference Vector Guided Evolutionary Algorithm (RVEA) for Many-Objective Optimization, including theoretical concepts, vector guidance mechanics, advantages, practical applications, and limitations.
->
-> Apresentação sobre o Algoritmo Evolutivo Guiado por Vetores de Referência (RVEA) para Otimização Multi-Objetivo, incluindo conceitos teóricos, mecanismos de direcionamento por vetores, vantagens, aplicações práticas e limitações.
-
 ---
 
 ## 🇬🇧 English Version
